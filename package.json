@@ -1,0 +1,16 @@
+{
+  "name": "ben-remix",
+  "version": "1.0.0",
+  "description": "Ben's Remix - Click to change styles, colors, and fonts",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "wrangler pages deploy"
+  },
+  "keywords": [
+    "remix",
+    "cloudflare",
+    "pages"
+  ],
+  "author": "Ben",
+  "license": "ISC"
+}
